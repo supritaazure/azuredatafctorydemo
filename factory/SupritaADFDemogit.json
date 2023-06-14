@@ -1,0 +1,9 @@
+{
+	"name": "SupritaADFDemogit",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e8e4c20d-cf58-4b67-a007-e06d38a17028",
+		"tenantId": "a982a936-1e17-4060-b1f1-699839c302a1"
+	}
+}
