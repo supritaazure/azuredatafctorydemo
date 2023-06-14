@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "SupritaADFDemogit"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
